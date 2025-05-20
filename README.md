@@ -1,0 +1,1 @@
+Um criador de QR Code simples e pratico de usar.
